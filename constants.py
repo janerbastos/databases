@@ -10,8 +10,8 @@ CHOOSE_TIPO_CONTENT = (
     ('ATBanner', 'Banners'),
     ('ATEvento', 'Eventos'),
     ('ATAgenda', 'Agendas'),
-    ('ATArquivo', 'Arquivo'),
-    ('ATServico', 'Servico'),
+    ('ATArquivo', 'Arquivos'),
+    ('ATServico', 'Serviços'),
 )
 
 CHOOSE_LISTA_CONTENTS = {
@@ -25,7 +25,7 @@ CHOOSE_LISTA_CONTENTS = {
     'ATBanner': 'Banner',
     'ATInforme': 'Informe',
     'ATLink': 'Link',
-    'ATServico': 'Servico'
+    'ATServico': 'Serviço'
 }
 
 CHOOCE_LISTA_PAPEIS = {
